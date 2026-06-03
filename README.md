@@ -11,8 +11,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prabha&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   <a href="mailto:prabhapersonal127@gmail.com"><img src="https://img.shields.io/badge/Gmail-prabhapersonal127-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/Prabha"><img src="https://img.shields.io/badge/LinkedIn-Prabha-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Prabha"><img src="https://img.shields.io/badge/GitHub-Prabha-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/prabhaa"><img src="https://img.shields.io/badge/LinkedIn-Prabha-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Prabha-Code"><img src="https://img.shields.io/badge/GitHub-Prabha-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -57,6 +57,18 @@ print(me.motto())
 <br clear="right"/>
 
 ---
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://prabha-three.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20View%20My%20Portfolio-Visit%20Now-70A5FD?style=for-the-badge" />
+  </a>
+</p>
+
+> Explore my projects, achievements, technical skills, certifications, and AI/Data Science work:
+>
+> 🔗 **https://prabha-three.vercel.app/**
+
 
 ## 🛠️ Tech Stack
 
